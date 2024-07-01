@@ -1,4 +1,4 @@
----
+---çox pi
 manufacturer: 
     - xiaomi
 
